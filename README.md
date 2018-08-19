@@ -30,4 +30,6 @@ Because of 42 School norm requirements: <br />
 * C++ style code commenting is forbidden <br />
 * Project should be created just with allowed functions otherwise it's cheating. <br />
 
+![Screenshot](screenshot.png)
+
 #### More about School 42 you can find here: https://en.wikipedia.org/wiki/42_(school).
